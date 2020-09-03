@@ -1,4 +1,4 @@
-# Chess-Game
+# Simplified-Chess-Game
 1-2 Java Sessional Term Project {Mahim Mahbub}
 ### Topics Covered in this project
 <!-- OL -->
